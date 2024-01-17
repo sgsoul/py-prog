@@ -1,2 +1,4 @@
-# py-prog
- contains labs and hw on the python prog course for 2nd term
+contains labs n hw for the python prog course for the 2nd term within the confines of closing the academic difference
+
+Задачи представляют собой ПО с использованием MySQL. Для удобства использования и лучшей визуализации данных предусмотрен графический интерфейс, который обеспечивает интуитивно понятное взаимодействие пользователя с программой.
+Объектная модель в задачах - шахматы, в домашней задаче - программное обеспечение для управления собственными финансами.
